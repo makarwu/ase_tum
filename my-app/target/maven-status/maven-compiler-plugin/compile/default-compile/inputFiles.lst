@@ -1,2 +1,6 @@
-/Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/App.java
+/Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/EmbeddedWebServer.java
+/Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/JettyEmbeddedWebServer.java
+/Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/ServerInitializer.java
 /Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/ServletApplication.java
+/Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/ServletConfigurator.java
+/Users/makarwuckert/Desktop/Uni/HWS24:25/ASE/exercises/my-app/src/main/java/com/example/TomcatEmbeddedWebServer.java

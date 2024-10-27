@@ -1,3 +1,7 @@
+edu/tum/ase/servletapp/ServletConfigurator.class
 edu/tum/ase/servletapp/ServletApplication.class
-com/example/App.class
 edu/tum/ase/servletapp/ServletApplication$1.class
+edu/tum/ase/servletapp/ServerInitializer.class
+edu/tum/ase/servletapp/EmbeddedWebServer.class
+edu/tum/ase/servletapp/JettyEmbeddedWebServer.class
+edu/tum/ase/servletapp/TomcatEmbeddedWebServer.class
