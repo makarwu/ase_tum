@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<!-- Week 2) List of greetings -->
+    <xs:element name="guestbook">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="greeting" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:int"/>
+                            <xs:element name="content" type="xs:string"/>
+                            <xs:element name="author" type="xs:string"/>
+                            <xs:element name="date" type="xs:date"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
